@@ -9,12 +9,7 @@
 6. [Installation & Setup](#installation--setup)
 7. [Configuration](#configuration)
 8. [API Documentation](#api-documentation)
-9. [Frontend Application](#frontend-application)
-10. [Retrieval System](#retrieval-system)
-11. [Deployment](#deployment)
-12. [Usage Examples](#usage-examples)
-13. [Troubleshooting](#troubleshooting)
-
+9. [Retrieval System](#retrieval-system)
 ---
 
 ## Project Overview
