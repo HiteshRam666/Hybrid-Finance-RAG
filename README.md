@@ -16,6 +16,11 @@
 
 The **Hybrid Finance RAG** is a sophisticated Retrieval-Augmented Generation (RAG) system designed to answer finance-related questions using advanced hybrid retrieval techniques. The system combines semantic search, BM25 keyword search, and cross-encoder reranking to provide accurate, context-aware responses from a knowledge base of financial documents.
 
+
+https://github.com/user-attachments/assets/59874b0e-e9b6-4c05-9a1e-5e55435ebb4c
+
+
+
 ### Key Features
 
 - **Hybrid Retrieval**: Combines semantic similarity search with BM25 keyword-based search
