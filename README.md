@@ -1,4 +1,4 @@
-# Advanced Finance Bot - Complete Documentation
+# Hybrid Finance RAG
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-The **Advanced Finance Bot** is a sophisticated Retrieval-Augmented Generation (RAG) system designed to answer finance-related questions using advanced hybrid retrieval techniques. The system combines semantic search, BM25 keyword search, and cross-encoder reranking to provide accurate, context-aware responses from a knowledge base of financial documents.
+The **Hybrid Finance RAG** is a sophisticated Retrieval-Augmented Generation (RAG) system designed to answer finance-related questions using advanced hybrid retrieval techniques. The system combines semantic search, BM25 keyword search, and cross-encoder reranking to provide accurate, context-aware responses from a knowledge base of financial documents.
 
 ### Key Features
 
